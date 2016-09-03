@@ -6,6 +6,7 @@ permalink: /docs/find/
 
 ##### Find
 
+
 Find a folder name abc
 
     find . -type d -name abc
