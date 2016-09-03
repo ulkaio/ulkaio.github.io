@@ -13,7 +13,8 @@ collections:
 
 name: Jekyll • Simple, blog-aware, static sites
 description: Transform your plain text into static websites and blogs
-url: https://kb.ulka.io
+# url: http://localhost:4000
+url: http://kb.ulka.io
 
 twitter:
   username: ulkaio

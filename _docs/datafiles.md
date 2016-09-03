@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Data Files
-permalink: /datafiles/
+permalink: /docs/datafiles/
 ---
 
 Example
