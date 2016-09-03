@@ -1,0 +1,25 @@
+markdown: kramdown
+highlighter: rouge
+permalink: /news/:year/:month/:day/:title/
+
+repository: ulkaio/ulkaio.github.io
+github_username: ulkaio
+
+timezone: America/Los_Angeles
+
+collections:
+  docs:
+    output: true
+
+name: Jekyll • Simple, blog-aware, static sites
+description: Transform your plain text into static websites and blogs
+url: https://kb.ulka.io
+
+twitter:
+  username: ulkaio
+
+logo: img/logo-2x.png
+
+theme: minima
+gems:
+  - github-pages
