@@ -1,0 +1,13 @@
+[user]
+	name = ulkaio
+	email = me@ulka.io
+[log]
+  	date = relative
+[format]
+  	pretty = format:%Cred%>(8,trunc)%ad%Creset %<(10,trunc)%aE %Cgreen%s%Creset
+[alias]
+	br = branch
+	ck = checkout
+	ci = commit
+	st = stash
+	s  = status
