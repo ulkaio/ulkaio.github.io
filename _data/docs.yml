@@ -1,8 +1,0 @@
-- title: Linux
-  docs:
-  - find
-  - cron
-  - curl
-  - wget
-  - rsync
-  - systemd
